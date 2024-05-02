@@ -1,0 +1,142 @@
+.circle{
+    width: 23px;
+    height: 23px;
+    background-color:#D9D9D9;
+    border-radius: 50%;
+  
+}
+#main{
+    width: Fixed (152px)px;
+height: Fixed (1,028px)px;
+padding: 128px 12px 118px 40px;
+gap: 10px;
+opacity: 0px;
+ background-color: #F6F6F6;
+
+}
+p{
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.36px;
+text-align: left;
+
+}
+.avtar{
+    
+    width: 48px;
+    height: 48px;
+    border-radius: 24px;
+    border: 1px solid #F3F8FF
+}
+
+#navbar{
+width: Fixed (1,576px)px;
+height: Hug (90px)px;
+left: 152px;
+padding: 24px 48px 18px 48px;
+gap: 0px;
+border: 0px 0px 1px 0px;
+justify-content: space-between;
+opacity: 0px;
+}
+#search{
+width: Fixed (1,164px)px;
+height: Hug (83px)px;
+top: 90px;
+left: 152px;
+padding: 20px ;
+gap: 0px;
+border: 0px 0px 1px 0px;
+
+opacity: 0px;
+
+
+}
+input{
+    width: 504px;
+    height: 41px;
+    padding: 12px 16px 12px 16px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    
+    opacity: 0px;
+    background-color: #F6F6F6;
+    border: 1px solid #D9D9D9
+    
+
+}
+.last-container{
+    width:1,163px;
+height: 88px;
+top: 940px;
+left: 153px;
+padding: 24px 36px 24px 24px;
+gap: 24px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+display: flex;
+justify-content: flex-end;
+
+
+
+}
+
+
+.mytools{
+width: Fill (332px)px;
+height:96px;
+padding: 10px;
+padding-top: 12px;
+
+
+opacity: 0.6px;
+
+}
+
+.iii{
+   margin-top: 30px;
+   
+
+}
+.first-container{
+    width: Fill (332px)px;
+    height: 126px;
+    padding: 16px 24px 16px 24px;
+    gap: 14px;
+    border-radius: 4px 0px 0px 0px;
+    margin-top: 20px;
+    opacity: 0px;
+    background-color: white;
+border: 1px solid var(--Black-Black-10, #E7E7E8);
+}
+
+.sec-container{
+width: Fill (350px)px;
+height: 169px;
+padding: 16px 24px 16px 24px;
+gap: 14px;
+border-radius: 4px 0px 0px 0px;
+margin-top: 20px;
+opacity: 0px;
+background-color: white;
+border: 1px solid var(--Black-Black-10, #E7E7E8);
+}
+
+.third-container{
+    width: Fill (332px)px;
+height:280px;
+padding: 16px 24px 16px 24px;
+gap: 14px;
+border-radius: 4px 0px 0px 0px;
+margin-top: 20px;
+opacity: 0px;
+background-color: white;
+border: 1px solid var(--Black-Black-10, #E7E7E8);
+
+}
+.blue-btn{
+    display: inline-block;
+    width:332px;
+}
